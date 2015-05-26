@@ -1,0 +1,15 @@
+body{
+  
+}
+img{
+    margin-left: 10px;
+    margin-right: 10px;
+    border-bottom-style:dotted;
+    border-color: #99FFCC;
+    border-bottom-width: 4px;
+}
+
+h1{
+ color: #ff88dc;
+ text-align: center;
+}
